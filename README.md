@@ -29,7 +29,9 @@
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" alt="swift" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwindcss" width="40" height="40"/> 
+</a>
 </p>
 
 <h3 align="left">Technology I want to learn now:</h3>
