@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hideaki</h1>
 <h3 align="center">Budding Engineer</h3>
 
-- 🌱 現在、学校に通いながら **React（ReactNative）、Node.js、HTML、CSS、Javascript、Laravel（PHP）** を学んでいます
+- 🌱 現在、学校に通いながら **React（ReactNative）、Node.js、HTML、CSS、Javascript、Laravel（PHP）、Swift** を学んでいます
 
 - 💬 まだまだ駆け出しのエンジニアなので質問することが多いです・・・。
 
