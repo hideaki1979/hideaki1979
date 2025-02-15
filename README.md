@@ -15,6 +15,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/COBOL" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/cobol/cobol.png" alt="cobol" width="40" height="40"/> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-basic/visual-basic.png" alt="vb" width="40" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css3" width="40" height="40"/> </a>  
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a> 
