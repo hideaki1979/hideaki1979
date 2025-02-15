@@ -32,6 +32,8 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwindcss" width="40" height="40"/> 
 </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://laravel.com/docs/8.x/sail" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="laravel-sail" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Technology I want to learn now:</h3>
