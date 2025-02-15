@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hideaki</h1>
 <h3 align="center">Budding Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hideaki1979&label=プロフィール閲覧数&color=0e75b6&style=flat" alt="hideaki1979" /> </p>
-
 - 🌱 現在、学校に通いながら **React（ReactNative）、Node.js、HTML、CSS、Javascript、Laravel（PHP）** を学んでいます
 
 - 💬 まだまだ駆け出しのエンジニアなので質問することが多いです・・・。
@@ -46,6 +44,9 @@
 
 <!--
 <img src="https://user-images.githubusercontent.com/your-profile-image.png" align="center" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hideaki1979&label=プロフィール閲覧数&color=0e75b6&style=flat" alt="hideaki1979" /> </p>
+
 **hideaki1979/hideaki1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
