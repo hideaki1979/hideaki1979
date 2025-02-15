@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/your-profile-image.png" align="center" />
-
 <h1 align="center">Hi 👋, I'm Hideaki</h1>
 <h3 align="center">Budding Engineer</h3>
 
@@ -47,6 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hideaki1979&" alt="hideaki1979" /></p>
 
 <!--
+<img src="https://user-images.githubusercontent.com/your-profile-image.png" align="center" />
 **hideaki1979/hideaki1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
