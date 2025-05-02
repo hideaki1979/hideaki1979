@@ -38,6 +38,12 @@
 </a>
 <a href="https://supabase.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" alt="supabase" width="40" height="40"/> </a>
 </p>
+<a href="https://rnfirebase.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native-firebase/react-native-firebase.png" alt="react-native-firebase" width="40" height="40"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="40" height="40"/>
+</a>
 
 <h3 align="left">Technology I want to learn now:</h3>
 <p align="left"> 
