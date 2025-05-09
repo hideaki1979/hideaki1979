@@ -2,7 +2,7 @@
 <h3 align="center">Budding Engineer</h3>
 
 - 🌱 G's ACADEMYというスクールで **React（ReactNative）、Node.js、HTML、CSS、Javascript、Laravel（PHP）、Swift** を学びました。
-- 現在は主にReactを中心に独学中です。
+- 現在は主にReact+Next.jsを中心に独学中です。
 
 - 💬 まだまだ駆け出しのエンジニアなので質問することが多いです・・・。
 
